@@ -16,6 +16,11 @@ Commands of Korou Bot
 </thead>
 <tbody>
 <tr>
+<td>24/7</td>
+<td> Bot stays in the voice channel forever.</td>
+<td>✔️</td>
+</tr>
+<tr>
 <td>help</td>
 <td>Shows the full list of commands</td>
 <td>✔️</td>
