@@ -1,7 +1,7 @@
 # KOROU
 Commands of Korou Bot
 
-<p>A discord music/general bot that plays music in your server/servers. A bot made and updated by deko#1337.<strong>
+<p>A discord music/general bot that plays music in your server/servers. A bot made and updated by deko#1000.<strong>
 <h1>Getting Started</h1>
 <p>No setup is needed for the bot. All you need to have is a voice channel and a text channel for the command. If you need more help <code>+help</code> for the full list of help commands.</p>
 <h1>Bot Commands</h1>
